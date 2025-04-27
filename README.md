@@ -21,4 +21,4 @@ It automatically detects and fixes common photo problems using classical DSP tec
 
 ## Running the Project
 ```bash
-python main.py
+python photo_diagnosis.py
